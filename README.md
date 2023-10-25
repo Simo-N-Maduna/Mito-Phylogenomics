@@ -15,7 +15,7 @@ This study is a component of Ms. Jessica Winn's doctoral project at the Genetics
 ## Mitophylogenomics Part II: Lepidoptera (Butterflies and Moths)
 <div align="justify">
   
-This folder contains the assembled mitochondiral genome of the apple fruit moth, *Argyresthia conjugella*, reported in our furthercomming paper under revision in *BMC Genomics* titled "Novel insight into lepidopteran phylogenetics from the mitochondrial genome of the apple fruit moth of the family Argyresthiidae". The full research article is available on *Research Square* as a preprint. Please visit the link https://doi.org/10.21203/rs.3.rs-3170057/v1 to access the full paper. The assembled mitochondiral genome is currently pending release on GenBank (Accession number: ON496993).
+This folder contains the assembled mitochondiral genome of the apple fruit moth, *Argyresthia conjugella*, reported in our furthercomming paper currently under revision in the journal *BMC Genomics* titled "Novel insight into lepidopteran phylogenetics from the mitochondrial genome of the apple fruit moth of the family Argyresthiidae". The full research article is available on *Research Square* as a preprint. Please visit the link https://doi.org/10.21203/rs.3.rs-3170057/v1 to access the full paper. The assembled mitochondiral genome is currently pending release on GenBank (Accession number: ON496993).
 
 </div>
 
