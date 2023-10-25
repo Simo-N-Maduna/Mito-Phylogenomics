@@ -1,14 +1,14 @@
 # Mitochondrial phylogenomics (Mitophylogenomics)
 <div align="justify">
   
-This is a curated repository of mitophylogenomics studies that I am involved in through collaborative initiatives. These studies encompass a range of taxa, including insects, seabirds, and elasmobranchs (sharks and rays). Here, you will find the data and code, if relevant.
+This is a curated repository of mitophylogenomics studies that I am involved in through collaborative initiatives. These studies encompass a range of taxa, including fish, insects, seabirds, and elasmobranchs (sharks and rays). Here, you will find the data and code, if relevant.
 
 </div>
 
-## Mitophylogenomics Part I: Carcharhiniformes (Ground Sharks)
+## Mitophylogenomics Part I: Cottoidei (sculpins, sandfishes, and snailfishes)
 <div align="justify">
-  
-This study is a component of Ms. Jessica Winn's doctoral project at the Genetics Department of Stellenbosch University in South Africa, where I serve as an Extraordinary Senior Lecturer and Jessica's Ph.D. co-supervisor. All the comprehensive information regarding this project is stored in a dedicated GitHub repository. Please see here: https://github.com/JessWinn/Houndshark-Mitogenomics. The full research article is available at SSRN: https://ssrn.com/abstract=4496805 or http://dx.doi.org/10.2139/ssrn.4496805 as a preprint and it is currently undergoing a second round of revisions in the journal *Genomics*.  
+
+This study was a component of my postdoctoral research at the Norwegian Institute of Bioeconomy Research (NIBIO). The full paper is published online here: https://doi.org/10.1016/j.ygeno.2022.110297.
 
 </div>
 
@@ -19,8 +19,14 @@ This folder contains the assembled mitochondiral genome of the apple fruit moth,
 
 </div>
 
+## Mitophylogenomics Part III: Carcharhiniformes (Ground Sharks)
+<div align="justify">
+  
+This study is a component of Ms. Jessica Winn's doctoral project at the Genetics Department of Stellenbosch University in South Africa, where I serve as an Extraordinary Senior Lecturer and Jessica's Ph.D. co-supervisor. All the comprehensive information regarding this project is stored in a dedicated GitHub repository. Please see here: https://github.com/JessWinn/Houndshark-Mitogenomics. The full research article is available at SSRN: https://ssrn.com/abstract=4496805 or http://dx.doi.org/10.2139/ssrn.4496805 as a preprint and it is currently undergoing a second round of revisions in the journal *Genomics*.  
 
-## Mitophylogenomics Part III: Phalacrocoracidae (Cormorants and Shags)
+</div>
+
+## Mitophylogenomics Part IV: Phalacrocoracidae (Cormorants and Shags)
 <div align="justify">
 
 This study is a component of Ms. Debbie Stanbridge's research internship project at the Reel Science Coalition NPO in South Africa and has its own dedicated GitHub repository currently under restricted access.
