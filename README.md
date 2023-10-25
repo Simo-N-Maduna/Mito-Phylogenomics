@@ -8,7 +8,7 @@ This is a curated repository of mitophylogenomics studies that I am involved in 
 ## Mitophylogenomics Part I: Carcharhiniformes (Ground Sharks)
 <div align="justify">
   
-This study is a component of Ms. Jessica Winn's doctoral project at the Genetics Department of Stellenbosch University in South Africa, where I serve as an Extraordinary Senior Lecturer and Jessica's Ph.D. co-supervisor. All the comprehensive information regarding this project is stored in a dedicated GitHub repository. Please see here: https://github.com/JessWinn/Houndshark-Mitogenomics. The full research article is available at SSRN: https://ssrn.com/abstract=4496805 or http://dx.doi.org/10.2139/ssrn.4496805 as a preprint is is currently undergoing a second round of revisions in the journal *Genomics*.  
+This study is a component of Ms. Jessica Winn's doctoral project at the Genetics Department of Stellenbosch University in South Africa, where I serve as an Extraordinary Senior Lecturer and Jessica's Ph.D. co-supervisor. All the comprehensive information regarding this project is stored in a dedicated GitHub repository. Please see here: https://github.com/JessWinn/Houndshark-Mitogenomics. The full research article is available at SSRN: https://ssrn.com/abstract=4496805 or http://dx.doi.org/10.2139/ssrn.4496805 as a preprint and it is currently undergoing a second round of revisions in the journal *Genomics*.  
 
 </div>
 
