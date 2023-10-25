@@ -5,7 +5,7 @@ This is a curated repository of mitophylogenomics studies that I am involved in 
 
 </div>
 
-## Mitophylogenomics Part I: Cottoidei (sculpins, sandfishes, and snailfishes)
+## Mitophylogenomics Part I: Cottoidei (Sculpins, Sandfishes, and Snailfishes)
 <div align="justify">
 
 This study was a component of my postdoctoral research at the Norwegian Institute of Bioeconomy Research (NIBIO). The full paper is published online here: https://doi.org/10.1016/j.ygeno.2022.110297.
