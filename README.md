@@ -1,7 +1,7 @@
 # Mitochondrial phylogenomics (mitophylogenomics)
 <div align="justify">
   
-This is a curated repository of mitophylogenomics studies that I am involved in through collaborative initiatives. These studies encompass a range of taxa, including insects, seabirds, and elasmobranchs (sharks and rays). Here, you will find the data and code, if relavent.
+This is a curated repository of mitophylogenomics studies that I am involved in through collaborative initiatives. These studies encompass a range of taxa, including insects, seabirds, and elasmobranchs (sharks and rays). Here, you will find the data and code, if relevant.
 
 </div>
 
